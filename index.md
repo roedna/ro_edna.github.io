@@ -1,6 +1,10 @@
-#  Edna Orias Rodríguez
+<p align="center">
+  <img src="yo.jpeg" alt="Profile Photo" width="200"/>
+</p>
 
-## Tropical Biology Student 
+# Edna Orias Rodríguez
+
+## Tropical Biology Student
 
 I am a Tropical Biology student at the School of Biological Sciences, National University of Costa Rica. I am deeply passionate about conservation, environmental education, and biodiversity preservation. Since 2018, I have worked as a student assistant in the Botany Department, contributing to national plant inventories and participating in various wildlife monitoring initiatives.
 
@@ -54,16 +58,17 @@ I am a Tropical Biology student at the School of Biological Sciences, National U
 
 ---
 
-### 📷 Profile Photo
+## 📊 Research Visualizations: *Bothrops asper* Distribution and Niche Analysis
 
+### 1. Distribution Map of *Bothrops asper*
+This map shows the geographic distribution of *B. asper* across Costa Rica, highlighting pre-decline and post-decline records.
+![Distribution Map](Distribución%20tercio.jpeg)
 
-```markdown
-![Profile Photo](yo.jpeg)
+### 2. Niche Graph
+This visualization illustrates the ecological niche of *B. asper* based on environmental variables.
+![Niche Graph](grafico%20nicho%20tercio.jpeg)
 
-# Research Project: Distribution and Population Dynamics of *Bothrops asper* in Costa Rica
-Upload images for Bothrops asper visualizations
+### 3. Environmental Variables Overview
+This figure presents spatial gradients of temperature, precipitation, elevation, and human footprint across Costa Rica.
+![Environmental Variables](Variables.jpeg)
 
-
-
-
-![Github]
