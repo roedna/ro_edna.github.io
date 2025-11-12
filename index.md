@@ -59,18 +59,27 @@ I am a Tropical Biology student at the School of Biological Sciences, National U
 **GitHub:** [roedna](https://github.com/roedna)  
 
 ---
+### 1. Occurrence Records of *Bothrops asper* in Costa Rica  
+**Figure 1.** Pre-decline (red) and post-decline (blue) georeferenced records of *Bothrops asper* across Costa Rica. The map highlights spatial concentration in lowland areas and temporal shifts in distribution.
 
-## 📊 Research Visualizations: *Bothrops asper* Distribution and Niche Analysis
-
-### 1. Distribution Map of *Bothrops asper*
-This map shows the geographic distribution of *B. asper* across Costa Rica, highlighting pre-decline and post-decline records.
 ![Distribution Map](Distribución%20tercio.jpeg)
 
-### 2. Niche Graph
-This visualization illustrates the ecological niche of *B. asper* based on environmental variables.
+---
+
+### 2. Ecological Niche Visualization  
+**Figure 2.** Environmental niche of *B. asper* based on temperature, precipitation, and elevation. The graph shows clustering of post-decline records within the warm and humid core of the species’ realized niche.
+
 ![Niche Graph](grafico%20nicho%20tercio.jpeg)
 
-### 3. Environmental Variables Overview
-This figure presents spatial gradients of temperature, precipitation, elevation, and human footprint across Costa Rica.
+---
+
+### 3. Environmental Gradients Across Costa Rica  
+**Figure 3.** Spatial distribution of key environmental and anthropogenic variables:  
+A) Mean annual temperature (BIO_01)  
+B) Annual precipitation (BIO_12)  
+C) Elevation (DEM)  
+D) Human Footprint Index (HFP)  
+All layers are projected to the same reference grid and show gradients from low (dark tones) to high (light tones).
+
 ![Environmental Variables](Variables.jpeg)
 
