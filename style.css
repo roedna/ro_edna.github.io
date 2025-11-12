@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(to bottom right, #6a0dad, #1e90ff, #32cd32);
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 2em;
+}
+
+h1, h2, h3 {
+  color: #ffffff;
+}
+
+a {
+  color: #aeefff;
+}
+
+img {
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
