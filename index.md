@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 <p align="center">
   <img src="yo.jpeg" alt="Profile Photo" width="200"/>
 </p>
